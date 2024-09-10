@@ -1,1 +1,1 @@
-# House_Price_Prediction
+# House_Price_Prediction: To predict the housing price of an Bangalore city. To implented the all the necessary steps for the data cleaning ans implemented the Machine Learning Models. Also, compare the Ml models which provided the best prediction. Download the datasets from kaggle. 
